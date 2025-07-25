@@ -108,18 +108,23 @@ AI를 통해 여러 퀘스트를 수행 후 슬랙에 공유를 통하여 슬랙
 
 
 수행결과
+
 7월 21일 (월)
+
 <img width="512" height="512" alt="1" src="https://github.com/user-attachments/assets/f7b04ef0-a19c-4268-b3f3-30129cc14510" />
 
 7월 22일 (화)
+
 <img width="512" height="512" alt="2" src="https://github.com/user-attachments/assets/45f4165c-938b-48b3-b0b3-a81db8d73516" />
 
 
 7월 23일 (수)
+
 <img width="512" height="512" alt="3" src="https://github.com/user-attachments/assets/719e5c33-7ab7-4123-8494-69bd112571ea" />
 <img width="512" height="512" alt="33" src="https://github.com/user-attachments/assets/a5a5818a-20f2-4a2e-a84d-4a903ad7437d" />
 
 7월 24일 (목)
+
 <img width="512" height="512" alt="4" src="https://github.com/user-attachments/assets/3d8e5726-a365-4836-85ad-8944ef619232" />
 <img width="512" height="512" alt="44" src="https://github.com/user-attachments/assets/5c9fd179-4348-479f-b337-38ed530142f3" />
 
