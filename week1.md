@@ -105,7 +105,23 @@ AI를 통해 여러 퀘스트를 수행 후 슬랙에 공유를 통하여 슬랙
 수행계획
 
 - 매일 아침 9시 AI로부터 랜덤으로 CS문제를 받아서 슬랙 random채널에 게시 그리고 답글로 정답을 작성한다. 가능하다면 관련 글도 첨부한다.
+수행결과
+7월 21일 (월)
+<img width="994" height="572" alt="1" src="https://github.com/user-attachments/assets/f7b04ef0-a19c-4268-b3f3-30129cc14510" />
 
+7월 22일 (화)
+<img width="673" height="793" alt="2" src="https://github.com/user-attachments/assets/45f4165c-938b-48b3-b0b3-a81db8d73516" />
+
+
+7월 23일 (수)
+<img width="812" height="887" alt="3" src="https://github.com/user-attachments/assets/719e5c33-7ab7-4123-8494-69bd112571ea" />
+<img width="734" height="261" alt="33" src="https://github.com/user-attachments/assets/a5a5818a-20f2-4a2e-a84d-4a903ad7437d" />
+
+7월 24일 (목)
+<img width="783" height="880" alt="4" src="https://github.com/user-attachments/assets/3d8e5726-a365-4836-85ad-8944ef619232" />
+<img width="443" height="492" alt="44" src="https://github.com/user-attachments/assets/5c9fd179-4348-479f-b337-38ed530142f3" />
+
+느낀점: 미션과 관련된 주제를 바탕으로 더 공부하고자 하는 내용을 AI에게 알려주고 그 내용을 바탕으로 일부 수정을 해서 슬랙에 올리는 미션을 진행했었다. 아무래도 CS지식을 올리는 미션이다보니,정확한 정보를 슬랙에 올리기 위해서 잘못된 내용은 없는지 찾아보고 확인하는 과정에서 더 깊은 이해를 할 수 있었던 것 같다. 지식의 공유를 통해 학습의 효과를 더욱 극대화할 수 있었던 기회였다. 2주차 퀘스트가 이렇게 끝났지만 퀘스트를 진행하면서 큰 학습 효과를 스스로 보았기에, 공부를 더 해보자는 생각으로 이 활동을 계속해도 괜찮을 것 같다. 다만 아쉬운 점은 매일 아침 9시에 업로드 하기로 했는데 그걸 못 지켰다는 것이 아쉽다.
 ---
 
 ### J138
