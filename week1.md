@@ -126,7 +126,9 @@ AI를 통해 여러 퀘스트를 수행 후 슬랙에 공유를 통하여 슬랙
 
 7월 22일 (화)
 
-<img width="512" height="512" alt="2" src="https://github.com/user-attachments/assets/45f4165c-938b-48b3-b0b3-a81db8d73516" />
+<img width="512" height="512" alt="스크린샷 2025-07-25 오후 1 24 54" src="https://github.com/user-attachments/assets/654ab2d7-3d24-43b4-b8b8-cf33184b364c" />
+<img width="512" height="512" alt="스크린샷 2025-07-25 오후 1 25 00" src="https://github.com/user-attachments/assets/3cbe160d-eec5-440d-9b13-2c27287e0370" />
+
 
 
 7월 23일 (수)
