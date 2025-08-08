@@ -536,3 +536,74 @@
 > 하나의 AI만 사용하다 보면 편향된 정보에 의존하게 될까 걱정이 되었습니다.
 > 그래서 여러 AI의 반응을 비교해보며 답변의 깊이나 관점의 차이를 직접 체감해보고 싶었습니다.
 > 그 과정을 통해 상황에 따라 가장 똑똑하게 AI를 활용하는 나만의 전략을 만들어보겠습니다 😁
+
+#### 수행기록
+<details>
+<summary>[20250804]</summary>
+
+`입력 프롬포트`
+
+"너는 이제부터 30년차 DB관리자야. 관계형 데이터베이스와 벡터DB 차이에 대해서 설명해줘"
+
+`결과`
+
+| GPT       | Gemini      |
+|-----------|--------------|
+|    <img width="500" alt="image" src="https://github.com/user-attachments/assets/eed013a7-5871-434b-9154-7a25ff591fdb" />  |   <img width="500" alt="image" src="https://github.com/user-attachments/assets/7b791593-ec9e-44cd-9479-b172974fda46" /> |
+
+`요약`
+
+GPT는 실무적인 예시와 구조적 설명이 강했고, Gemini는 개념 중심의 정리가 돋보였다.</br>
+AI마다 강점이 다르다는 걸 체감했고, 앞으로 질문 성격에 따라 전략적으로 선택해볼 계획이다.
+
+</details>
+
+<details>
+<summary>[20250805]</summary>
+
+`입력 프롬포트`
+
+"벡터db 인덱싱은 쿼리 개선에 필수일까?"
+
+`결과`
+
+| GPT       | Gemini      |
+|-----------|--------------|
+|   <img width="500" alt="image" src="https://github.com/user-attachments/assets/12554358-3f7f-46c7-af56-d3a754e805aa" /> | <img width="500" alt="image" src="https://github.com/user-attachments/assets/34fc0a7c-b3a6-466b-a4ea-b570049a4b08" /> |   <img width="500" alt="image" src="https://github.com/user-attachments/assets/7b791593-ec9e-44cd-9479-b172974fda46" /> |
+
+`요약`
+
+GPT는 인덱스 방식과 성능 차이를 표로 정리하며 체계적으로 설명했고, Gemini는 비유를 활용해 직관적으로 이해를 도왔다.</br>
+GPT는 기술적 비교에 강점이 있었고, Gemini는 개념을 감각적으로 전달하는 데 유리했다.</br>
+각자의 스타일이 달라, 학습 목적이나 상황에 따라 유연하게 활용할 수 있겠다는 인사이트를 얻었다.
+
+</details>
+
+<details>
+<summary>[20250806]</summary>
+
+`입력 프롬포트`
+
+"단일책임원칙을 지키는 것이 구조 개선에 항상 도움이 될까?"
+
+`결과`
+
+| GPT       | Gemini      |
+|-----------|--------------|
+|     <img width="500" alt="image" src="https://github.com/user-attachments/assets/db5e36e5-fb29-434d-b805-672a457b9abf" /> |      <img width="500" alt="image" src="https://github.com/user-attachments/assets/4cdb3ac5-f088-4f09-bbaa-9329617b7d93" />  |
+
+`요약`
+
+두 AI 모두 단일 책임 원칙의 장점과 단점을 차례로 설명한 뒤, 균형 잡힌 접근이 필요하다는 결론에 도달했다.</br>
+GPT는 원칙이 도움이 되는 구체적인 상황을 제시했고, Gemini는 적용 여부를 판단하는 기준을 중심으로 정리했다.</br>
+내용 흐름은 비슷했지만, 초점의 차이에서 각 AI의 특성이 드러났다.
+
+</details>
+
+#### 느낀점
+두 AI를 비교해보며 같은 질문에도 `설명 방식과 관점`이 다양하게 나뉜다는 것을 실감할 수 있었다.</br>
+`GPT`는 구조적인 정리와 실무 관점에 강했고, `Gemini`는 비유와 개념 중심의 접근으로 이해를 돕는 데 탁월했다.</br>
+
+이제는 단순히 정답을 얻기보다, 질문의 성격에 따라 더 잘 맞는 AI를 골라 활용하는 전략이 중요하다는 걸 깨달았다.</br>
+**기술적 비교**가 필요할 땐 `GPT`, **개념적 이해**가 우선일 땐 `Gemini`를 먼저 떠올리는 습관이 생겼다.</br>
+앞으로도 상황에 맞게 두 AI를 똑똑하게 조합해 쓰는 나만의 활용 루틴을 만들어갈 예정이다 😁
