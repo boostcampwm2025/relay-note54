@@ -457,10 +457,46 @@
 > AI가 어떤 방식으로 문장을 해석하고 결과에 반영하는지를 어떻게 달라지는지 직접 확인해보고 싶었기 때문입니다.\
 > 또한 내가 원하는 이미지를 AI가 정확히 이해하고 만들어내는지 테스트해보고 싶었습니다.
 
+---
+
 ### S003 - 3. 같은 프롬프트, 다른 AI – 반응 비교 실험
 
 > 최근 자신이 사용하려는 목적에 맞는 LLM을 선택해 활용하는 것에 대한 흥미를 가지고 있어 3번 퀘스트를 선택하게 되었습니다. 
 > AI 별 답변이 다를 것이라는 생각은 가지고 있지만, 정확히 뭐가 어떻게 다른지에 대한 비교를 해본적은 없기에 이번 기회 한번 정리하고 찾아보고자 퀘스트로 선택하게 되었습니다.
+
+#### 입력 프롬프트
+
+애플의 Network.framework에 대해 알려줘
+
+#### AI별 응답 요약
+
+1. Claude Sonnet 4.0
+
+- 저수준 네트워킹 API, TLS·경로 모니터링 통합, Swift 구조화 동시성에서 send/receive를 async/await로 사용 가능함을 강조
+- NWEndpoint, NWParameters, NWConnection, NWListener, NWBrowser/DevicePicker, NWPathMonitor 등 핵심 타입을 체계적으로 나열
+- TLS/DTLS, Happy Eyeballs, 멀티패스, 네트워크 비용 인식, P2P(애플리케이션 서비스 + DeviceDiscoveryUI) 등 폭넓은 기능 언급
+
+2. GPT-4.1
+   
+- 소켓 레벨 통신을 쉽게 다루는 현대 API로 개념·흐름을 균형 있게 요약
+- NWPathMonitor 등 고수준 API 언급, “연결 생성 → 상태 관리 → 비동기 송수신” 흐름을 간결 서술
+- URLSession(고수준 HTTP) 대비 Network.framework(저수준 제어) 포지셔닝 명확
+
+3. Gemini 2.5 Pro 06-05
+   
+- iOS 12 도입, socket 대체, async/await 완전 지원 강조
+- 지능적 경로 전환, TLS/DTLS 내장, NWPathMonitor, DeviceDiscoveryUI 통한 P2P 등 실무 포인트 다수
+- Network.framework vs URLSession을 표로 정리해 추상화 수준/프로토콜/사용사례/제어수준을 한눈에 대비
+
+#### 가장 만족스러웠던 AI Gemini
+
+- URLSession과의 차이를 표로 정리해 선택 기준을 명확히 제공하는 부분이 고민될 지점에 대한 정보를 먼저 준다는  느낌을 받음
+- P2P/DeviceDiscoveryUI/NWPathMonitor 등 실무에서 자주 마주치는 포인트를 균형 있게 포함해서 정보를 전달해줌.
+- iOS 12 도입 배경과 async/await 지원 맥락을 연결해 학습 흐름을 잘 구성
+
+-> 전체적으로 단순히 정보만 전달하기보다는 여러 툴을 이용해 해당 기술이 생겨난 플로우까지 설명해준다는 점에서 가장 좋았습니다.
+
+---
 
 ### J165 - 3. 같은 프롬프트, 다른 AI – 반응 비교 실험
 
